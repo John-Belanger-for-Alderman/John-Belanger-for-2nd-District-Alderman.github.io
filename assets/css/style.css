@@ -101,7 +101,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: hsl(266, 55%, 30%);
+  color: hsl(227, 54%, 30%);
   text-decoration: none;
 }
 
@@ -116,11 +116,11 @@ h6 {
 }
 
 #header .contribute a {
-  color: hsl(266, 55%, 60%);
+  color: hsl(227, 54%, 50%);
 }
 
 #header .contribute a:hover {
-  color: hsl(266, 55%, 70%);
+  color: hsl(227, 54%, 60%);
 }
 
 /*--------------------------------------------------------------
@@ -388,7 +388,7 @@ h6 {
 }
 
 #hero h1 .main {
-  color: hsl(266, 55%, 60%);
+  color: hsl(227, 54%, 50%);
 }
 
 #hero h1 .minor {
@@ -415,12 +415,12 @@ h6 {
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: hsl(266, 55%, 60%);
+  background: hsl(227, 54%, 50%);
 }
 
 .btn-get-started:hover {
   color: #fff;
-  background: hsl(266, 55%, 70%);
+  background: hsl(227, 54%, 60%);
 }
 
 #hero .hero-img {
@@ -774,7 +774,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit], .get-involved .button {
-  background: hsl(266, 55%, 60%);
+  background: hsl(227, 54%, 50%);
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -783,7 +783,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit]:hover, .get-involved .button:hover {
-  background: hsl(266, 55%, 80%);
+  background: hsl(227, 54%, 60%);
 }
 
 .get-involved .contact-info label {
